@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5ceddf54-4afb-46ba-bcf2-255ebe7bf63b" name="fullstack" url="http://145.24.222.107">
+        <fileTransfer host="145.24.222.107" port="22" rootFolder="/home/ubuntu-0908405" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
